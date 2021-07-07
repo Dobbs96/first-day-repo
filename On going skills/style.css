@@ -1,0 +1,13 @@
+body {
+  background: rgb(226, 248, 255);
+}
+
+header {
+  text-align: center;
+  background-color: rgba(153, 0, 255, 0.411);
+}
+#contact {
+  width: 25%;
+  background-color: rgba(151, 250, 151, 0.295);
+  border: solid 1px black;
+}
